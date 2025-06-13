@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Gurpreet Chahal
+#  :) Hi, I'm Gurpreet Chahal
 
 **Senior QA Engineer** | Automation | Security Testing | Performance | AI Testing
 
-🔍 Passionate about building secure, scalable, and automated test frameworks.
+Passionate about building secure, scalable, and automated test frameworks.
 
-💼 Currently working on:  
-- 🔧 Playwright automation for UI testing  
-- 🔐 Security testing using OWASP ZAP  
-- 🚀 API testing with Rest Assured and Postman  
-- 🧠 Exploring AI in QA
+ Currently working on:  
+- Playwright automation for UI testing  
+- Security testing using OWASP ZAP  
+- API testing with Rest Assured and Postman  
+- Exploring AI in QA
 
-📫 How to reach me:  
+**How to reach me:  **
 [LinkedIn](https://www.linkedin.com/in/gurpreet-chahal999/) | [Email](mailto:gurpreetgulichahal@gmail.com)
 
 ---
