@@ -25,6 +25,7 @@
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=javascript)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat)
 ![Tosca](https://img.shields.io/badge/-Tosca-007ACC?style=flat)
