@@ -23,14 +23,16 @@
 ---
 
 ### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-1376AC?style=flat&logo=python)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=javascript)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat)
-![Tosca](https://img.shields.io/badge/-Tosca-007ACC?style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache)
+### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+![Tosca](https://img.shields.io/badge/Tosca_Testing-blue?style=flat&logo=testing-library&logoColor=white)
+
 
 ---
 
