@@ -35,4 +35,4 @@
 ---
 
 ### 📈 GitHub Stats
-![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpreetgulichahal&show_icons=true&theme=default)
