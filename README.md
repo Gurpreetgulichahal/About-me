@@ -15,11 +15,10 @@
 
 ---
 
-### 🧪 Featured Projects
-- ✅ **[playwright-automation-suite](https://github.com/Gurpreetgulichahal/Rusable-Framework)** — UI Test suite for a real-world web app
-- 🔐 **[zap-security-tests](https://github.com/...)** — CI-integrated OWASP ZAP scans for security
-- 🚀 **[rest-assured-api-tests](https://github.com/...)** — End-to-end API automation
-- 📊 **[performance-testing-jmeter](https://github.com/...)** — JMeter scripts for load testing
+###  Featured Projects
+-  **[playwright-automation-suite](https://github.com/Gurpreetgulichahal/Rusable-Framework)** — UI Test suite for a real-world web app
+-  **[rest-assured-api-tests](https://github.com/...)** — End-to-end API automation
+- 
 
 ---
 
