@@ -18,11 +18,10 @@
 ###  Featured Projects
 -  **[playwright-automation-suite](https://github.com/Gurpreetgulichahal/Rusable-Framework)** — UI Test suite for a real-world web app
 -  **[rest-assured-api-tests](https://github.com/...)** — End-to-end API automation
-- 
+  
 
 ---
 
-### 🛠 Tech Stack
 ### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
