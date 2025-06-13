@@ -11,7 +11,7 @@
 - 🧠 Exploring AI in QA
 
 📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/gurpreet-chahal999/) | [Email](gurpreetgulichahal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gurpreet-chahal999/) | [Email](mailto:gurpreetgulichahal@gmail.com)
 
 ---
 
