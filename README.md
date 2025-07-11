@@ -2,9 +2,6 @@
 
 **Senior QA Engineer** | Automation | Security Testing | Performance | AI Testing
 
-
-
-
 Passionate about building secure, scalable, and automated test frameworks.
 
  Currently working on:  
