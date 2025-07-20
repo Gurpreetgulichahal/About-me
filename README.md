@@ -3,15 +3,13 @@
 **Senior QA Engineer** | Automation | Security Testing | Performance | AI Testing
 
 Passionate about building secure, scalable, and automated test frameworks.
-
-
  Currently working on:  
 - Playwright automation for UI testing  
 - Security testing using OWASP ZAP  
 - API testing with Rest Assured and Postman
 - Generative AI chatbot testing
 - Prompt Engineering 
-- Exploring AI in QA
+- Exploring Genrative AI in QA
 
 
 **How to reach me:**
