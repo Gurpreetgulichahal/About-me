@@ -11,6 +11,7 @@ Passionate about building secure, scalable, and automated test frameworks.
 - Prompt Engineering 
 - Exploring Genrative AI in QA
 
+
 **How to reach me:**
 [LinkedIn](https://www.linkedin.com/in/gurpreet-chahal999/) | [Email](mailto:gurpreetgulichahal@gmail.com)
 
