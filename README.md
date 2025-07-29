@@ -10,6 +10,7 @@ Passionate about building secure, scalable, and automated test frameworks.
 - Generative AI chatbot testing
 - Prompt Engineering 
 - Exploring Genrative AI in QA
+- 
 
 
 **How to reach me:**
