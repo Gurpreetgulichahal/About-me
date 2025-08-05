@@ -1,6 +1,6 @@
 #  :) Hi, I'm Gurpreet Chahal
 
-**Senior QA Engineer** | Automation | Security Testing | Performance | AI Testing
+**Senior QA Engineer** | Automation | Security Testing | Performance | AI Testin
 
 Passionate about building secure, scalable, and automated test frameworks.
  Currently working on:  
