@@ -1,6 +1,5 @@
 #  :) Hi, I'm Gurpreet Chahal
 
-
 **Senior QA Engineer** | Automation | Security Testing | Performance | AI Testin
 
 
