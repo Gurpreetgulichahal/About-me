@@ -2,7 +2,6 @@
 
 **Senior QA Engineer** | Automation | Security Testing | Performance | AI Testin
 
-
 Passionate about building secure, scalable, and automated test frameworks.
  Currently working on:  
 - Playwright automation for UI testing  
