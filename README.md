@@ -15,9 +15,7 @@ Passionate about building secure, scalable, and automated test frameworks.
 
 **How to reach me:**
 [LinkedIn](https://www.linkedin.com/in/gurpreet-chahal999/) | [Email](mailto:gurpreetgulichahal@gmail.com)
-
 ---
-
 ###  Featured Projects
 -  **[playwright-automation-suite](https://github.com/Gurpreetgulichahal/Rusable-Framework)** — UI Test suite for a real-world web app
 -  **[rest-assured-api-tests](https://github.com/...)** — End-to-end API automation
