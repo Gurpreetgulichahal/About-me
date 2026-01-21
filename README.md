@@ -11,8 +11,7 @@ Passionate about building secure, scalable, and automated test frameworks.
 - Generative AI chatbot testing
 - Prompt Engineering 
 - Exploring Genrative AI in QA
-- 
-
+  
 
 **How to reach me:**
 [LinkedIn](https://www.linkedin.com/in/gurpreet-chahal999/) | [Email](mailto:gurpreetgulichahal@gmail.com)
@@ -25,7 +24,7 @@ Passionate about building secure, scalable, and automated test frameworks.
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
